@@ -1,0 +1,29 @@
+new TypeIt(".simpleUsage", {
+    strings: ["Studio Ghibli Informational Page"],
+    speed: 50,
+    waitUntilVisible: true,
+  })
+  	.break({ delay: 500 })
+    .break({ delay: 500 })
+    .type("Brought to you by Angeline Nguyen, Yeji Kim, and Grace Hong")
+    .pause(300)
+    .break({ delay: 500 })
+    .break({ delay: 500 })
+    .type("Affer", { delay: 300 })
+    .move(-2)
+    .delete(1)
+    .type("t")
+    .move(null, { to: "END" })
+    .type(", we will show you our own personal favorite film out of all of films.")
+      .exec(async () => {
+        await new Promise((resolve, reject) => {
+        setTimeout(() => {
+          return resolve();
+          }, 2000);
+          });
+        })
+    .break({ delay: 200 })
+    .break({ delay: 200 })
+    .type("Have fun exploring our page! &hearts;")
+    
+    .go();
