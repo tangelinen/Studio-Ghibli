@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Ghibli - Credits</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css" type="text/css" /> 
+    <link rel="stylesheet" href="jsutil.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+</head>
+<body>
+    <video autoplay muted loop id="bg-video">
+        <source src="video/background.mp4" type="video/mp4">
+    </video>
+    <div class="page-container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="cd-slider-nav">
+              <nav class="navbar navbar-expand-lg" id="tm-nav">
+                <a href="index.html">
+				<img src="img/logo.png" alt="studioghibli" width="200" height="">
+				</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-supported-content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbar-supported-content">
+                    <ul class="navbar-nav mb-2 mb-lg-0">
+                      <li class="nav-item">
+                        <a href="angeline1.html">
+						<img src="img/noface.gif" alt="spiritedaway" width="75" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="yeji1.html">
+						<img src="img/totoro.png" alt="totoro" width="60" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="grace.html">
+						<img src="img/ponyo.png" alt="ponyo" width="65" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="credit.html">
+						<img src="img/credit.png" alt="credit" width="70" height="">
+						</a></li>
+                      </li>
+                    </ul>
+                  </div>
+              </nav>
+            </div>
+          </div>          
+        </div>        
+      </div>      
+      <div class="container-fluid tm-content-container">
+        <ul class="cd-hero-slider mb-0 py-5">
+          <li class="px-3" data-page-no="1">
+            <div class="page-width-1 page-left">
+              <div class="d-flex position-relative tm-border-top tm-border-bottom intro-container">
+                <div class="intro-left tm-bg-dark">
+                  <font size= 5><strong><p class="simpleUsage"></p></font></strong>
+					<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+					<script src="credittypeit.js"></script>
+					<hr>
+					<font size= 3>
+                  <p><em>What did we use?</em></p>
+                  <hr>
+                  <h4>Home Page</h4>
+                  <h6>Movie Posters</h6>
+                  <br>
+                  <font size= 3>
+                  <p>&#9733; Kiki's Delivery Service<a href="https://filmartgallery.com/collections/kikis-delivery-service"> Poster</a></p>
+                  <p>&#9733; Spirited Away<a href="https://filmartgallery.com/collections/spirited-away"> Poster</a></p>
+                  <p>&#9733; The Secret World of Arrietty<a href="https://filmartgallery.com/pages/search-results?q=arrietty"> Poster</a></p>
+                  <p>&#9733; Castle in the Sky<a href="https://filmartgallery.com/collections/castle-in-the-sky"> Poster</a></p>
+                  <p>&#9733; My Neighbor Totoro<a href="https://filmartgallery.com/collections/my-neighbor-totoro"> Poster</a></p>
+                  <p>&#9733; Princess Mononoke<a href="https://filmartgallery.com/collections/princess-mononoke"> Poster</a></p>
+                  <p>&#9733; Ponyo<a href="https://filmartgallery.com/pages/search-results?q=ponyo"> Poster</a></p>
+                  <p>&#9733; Porco Rosso<a href="https://filmartgallery.com/collections/spirited-away"> Poster</a></p>
+                  <p>&#9733; Grave of the Fireflies<a href="https://filmartgallery.com/products/grave-of-the-fireflies-1"> Poster</a></p>
+                  <p>&#9733; Howl's Moving Castle<a href="https://filmartgallery.com/products/howls-moving-castle-3"> Poster</a></p>
+                  <p>&#9733; From up on Poppy Hill<a href="https://filmartgallery.com/products/from-up-on-poppy-hill"> Poster</a></p>
+                  <p>&#9733; The Cat Returns<a href="https://filmartgallery.com/products/the-cat-returns"> Poster</a></p>
+                  <p>&#9733; Whisper of the Heart<a href="https://filmartgallery.com/products/whisper-of-the-heart"> Poster</a></p>
+                  <p>&#9733; The Wind rises<a href="https://filmartgallery.com/products/the-wind-rises-1?variant=39295723962539"> Poster</a></p>
+                  
+                  <br>
+                  <p>All can be found on <a href="https://filmartgallery.com/">Filmartgallery</a></p>
+                  </font>
+    			  <hr>
+                  <h4>Angeline's Page</h4>
+                  <h6>Movie Scenes Used</h6>
+                  <br>
+                  <p>Individual photo belongs to Angeline</p>
+                  <p>All movies photos used can be found on <a href="https://www.alamy.com/stock-photo/spirited-away-film.html?sortBy=relevant">Alamy</a></p>
+                  <p>All Information about the movie <a href="https://www.google.com/search?client=firefox-b-1-d&q=Spirited+Away">Spirited Away</a> were taken from <a href="https://en.wikipedia.org/wiki/Spirited_Away">Wikipedia</a></p>
+                  <hr>
+                  <h4>Yeji's Page</h4>
+                  <h6>Movie Scences Used</h6>
+                  <br>
+                  <p>Individual photo belongs to Yeji</p>
+                  <p>Some photos used can be found at <a href="https://themoviescreenscene.wordpress.com/2020/07/15/my-neighbour-totoro-1988/">The Movie Screen Scene</a></p>
+				  <p>Rest of the photos used can be found on <a href="https://www.pinterest.com/atlanticolours/my-neighbor-totoro-scenes/">Pinterest</a></p>
+                  <p>All Information about the movie <a href="https://www.google.com/search?client=firefox-b-1-d&q=my+neighbor+totoro">My Neighbor Totoro</a> were taken from <a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro">Wikipedia</a></p>
+                  <hr>
+                  <h4>Grace's Page</h4>                	
+				  <h6>Movie Scenes Used</h6>
+				  <br>
+				  <p>Individual photo belongs to Grace</p>
+				  <p>All photos used can be found at <a href="https://studioghiblimovies.com/ponyo-wallpaper-hd/">Studio Ghibli Movies</a></p>
+				  <p>All Information about the movie <a href="https://www.google.com/search?client=firefox-b-1-d&q=ponyo">Ponyo</a> were taken from <a href="https://ghibli.fandom.com/wiki/Ponyo">Ghibli Fandom</a></p>
+				  <hr>
+				  <h4>Web Design</h4>
+				  <br>
+				  <p>Template <a href="https://technext.github.io/astro-motion/">Astro Motion</a> from <a href="https://templatemo.com/page/1">TemplateMo</a></p> 
+				  <p>Live <a href="https://wallpaperwaifu.com/landscape/spirited-away-gateway-live-wallpaper/">background</a> from <a href="https://wallpaperwaifu.com/">WallpaperWaifu</a></p>
+				  <hr>
+				  <h4>JS</h4>
+				  <br>
+				  <p>3D Rotating Carousel by <a href="https://www.sitepoint.com/building-3d-rotating-carousel-css-javascript/">sitepoint</a></p>
+				  <p>Creating and Embedding a <a href="https://www.typeitjs.com/">Typeit</a></p>
+				  <p>Smooth scrolling effect by <a href="https://scrollrevealjs.org/">ScrollReveal</a></p>
+				  
+                </div>
+                <div class="intro-right" style="background-color:rgba(0,0,0,0.3);">
+                <h3 style="text-decoration:underline;text-align:right;color:white;font-family:Georgia, serif;margin-right:10px;margin-left:10px;">Contact Information</h3>
+                <br>
+                <em><p style="text-align:right;margin:10px;"> Who do you want to Email?</p></em>
+                <br>
+                <p style="text-align:right;margin:10px;"><a href="mailto:nguyenat@bu.edu">Angeline Nguyen</a></p>
+                <p style="text-align:right;margin:10px;"><a href="mailto:yejik328@bu.edu">Yeji Kim</a></p>
+                <p style="text-align:right;margin:10px;"><a href="mailto:ybgrace@bu.edu">Grace Hong</a></p>
+                <br>
+                <em><p style="text-align:right;margin:10px;"> Instagram Information!</p></em>
+                <p style="text-align:right;margin:10px;">Angeline Nguyen &rarr;<a href="https://www.instagram.com/axxt.n/"> axxt.n</a></p>
+                <p style="text-align:right;margin:10px;">Yeji Kim &rarr;<a href="https://www.instagram.com/yejikim328/"> yejikim328</a></p>
+                <p style="text-align:right;margin:10px;">Grace Hong &rarr;<a href="https://www.instagram.com/ggraxce/"> ggraxce</a></p>
+                <br>
+                <div class="circle intro-circle-1"></div>
+                <div class="circle intro-circle-2"></div>
+                <div class="circle intro-circle-3"></div>
+                <div class="circle intro-circle-4"></div>
+              </div>
+              <div class="text-center">
+              </div>            
+            </div>            
+          </li>
+        </ul>
+    </div>
+    <br>
+    
+    <div class="container-fluid">
+      <footer class="row mx-auto tm-footer">
+        <div class="col-md-6 px-0">
+        <font size= 3>
+          Copyright &copy 2022 <a href="angeline1.html">Angeline</a> and <a href="yeji1.html">Yeji</a> and <a href="grace.html">Grace</a>. Design by <a href="https://technext.github.io/astro-motion/">Astro Motion Company.</a>
+        </font>
+        </div>
+        <div class="col-md-6 px-0 tm-footer-right">
+          Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank" class="tm-link-white">TemplateMo</a>
+        </div>
+      </footer>
+    </div>
+  </div>
+  <!-- Preloader, https://ihatetomatoes.net/create-custom-preloading-screen/ -->
+  <div id="loader-wrapper">            
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+  </div>  
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/slick.js"></script>
+  <script src="js/templatemo-script.js"></script>
+</body>
+</html>
