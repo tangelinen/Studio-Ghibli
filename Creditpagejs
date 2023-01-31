@@ -1,0 +1,29 @@
+new TypeIt(".simpleUsage", {
+    strings: ["&#9733; Credit Page &#9733;"],
+    speed: 50,
+    waitUntilVisible: true,
+  })
+  	.break({ delay: 500 })
+    .break({ delay: 500 })
+    .type("This is the end of our Webpage.")
+    .pause(300)
+    .break({ delay: 500 })
+    .break({ delay: 500 })
+    .type("Tank", { delay: 300 })
+    .move(-2)
+    .delete(1)
+    .type("ha")
+    .move(null, { to: "END" })
+    .type(" you for your time and we hope you enjoyed watching! &hearts;")
+      .exec(async () => {
+        await new Promise((resolve, reject) => {
+        setTimeout(() => {
+          return resolve();
+          }, 2000);
+          });
+        })
+    .break({ delay: 200 })
+    .break({ delay: 200 })
+    .type("P.S What's your favorite Studio Ghibli film?")
+    
+    .go();
