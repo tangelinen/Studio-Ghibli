@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Ghibli - Angeline</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css" type="text/css" /> 
+    <link rel="stylesheet" href="jsutil.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+</head>
+<body>
+    <video autoplay muted loop id="bg-video">
+        <source src="video/background.mp4" type="video/mp4">
+    </video>
+    <div class="page-container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="cd-slider-nav">
+              <nav class="navbar navbar-expand-lg" id="tm-nav">
+                <a href="index.html">
+				<img src="img/logo.png" alt="studioghibli" width="200" height="">
+				</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-supported-content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbar-supported-content">
+                    <ul class="navbar-nav mb-2 mb-lg-0">
+                      <li class="nav-item">
+                        <a href="angeline1.html">
+						<img src="img/noface.gif" alt="spiritedaway" width="75" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="yeji1.html">
+						<img src="img/totoro.png" alt="totoro" width="60" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="grace.html">
+						<img src="img/ponyo.png" alt="ponyo" width="65" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="credit.html">
+						<img src="img/credit.png" alt="credit" width="70" height="">
+						</a></li>
+                      </li>
+                    </ul>
+                  </div>
+              </nav>
+            </div>
+          </div>          
+        </div>        
+      </div>      
+      <div class="container-fluid tm-content-container">
+        <ul class="cd-hero-slider mb-0 py-5">
+          <li class="px-3" data-page-no="1">
+            <div class="page-width-1 page-left">
+              <div class="d-flex position-relative tm-border-top tm-border-bottom intro-container">
+                <div class="intro-left tm-bg-dark">
+                  <font size= 3><p class="simpleUsage"></p></font>
+					<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+					<script src="angelinetypeit.js"></script>
+					<hr>
+                	<font size= 2>
+                	<h2>Bio</h2>
+					<p>Hello, my name is Angeline Nguyen and I am from Chelsea, Massachusetts. Not too far from Boston.
+					I am currently a Junior at <a id="link" href="https://www.bu.edu">Boston University</a> 
+					studying computer science.</p>
+
+					<p>Spirited Away out of all Studio Ghibli films has always been top tier for me because of the its amazing visuals. 
+	        	  	Especially as a kid, I was really mesmerized by the graphics. 
+		          	This movie has always been a movie that I could always rewatch as a kid.
+		          	Later as I grew older, I feel like the message Spirited Away was trying to portray was also relatable... not that my parents turned into giant pigs.</p>
+					
+					<div class="story1">
+					<h2>Spirited Away</h2>
+					<h3>Plot</h3>
+					<p> Ten-year-old Chihiro Ogino and her parents are traveling to their new home when her father decides to take a shortcut. The family's car stops in front 
+					of a tunnel leading to what appears to be an abandoned amusement park, which Chihiro's father insists on exploring, despite his daughter's protest. They find a 
+					seemingly empty restaurant still stocked with food, which Chihiro's parents immediately begin to eat. While exploring further, Chihiro reaches an enormous bathhouse 
+					and meets a boy named Haku, who warns her to return across the riverbed before sunset. However, Chihiro discovers that her parents have been transformed into pigs, 
+					and she is unable to cross the now-flooded river.</p>
+					</div>
+					
+					<div class="story2">
+					<p>Haku finds Chihiro and instructs her to ask for a job from the bathhouse's boiler-man, Kamaji, a yōkai commanding the susuwatari. Kamaji refuses to hire her and 
+					asks worker Lin to send Chihiro to Yubaba, the witch who runs the bathhouse. Yubaba tries to frighten Chihiro away, but she persists, and is eventually given a working 
+					contract. Yubaba takes away the second kanji of her name, renaming her Sen (千). While visiting her parents' pigpen, Sen realizes that she had already forgotten her real
+					name. Haku warns her that Yubaba controls people by taking their names, and that if she forgets hers like he has forgotten his, she will never be able to leave the spirit world. </p>
+					</div>
+					
+					<div class="story3">
+					<p>Sen faces discrimination from the other workers; only Kamaji and Lin show sympathy for her. While working, she invites a silent creature named No-Face 
+					(Kaonashi 顔無し) inside, believing him to be a customer. A "stink spirit" arrives as Sen's first customer, and she discovers he is the spirit of a polluted
+					river. In gratitude for cleaning him, he gives Sen a magic emetic dumpling. Meanwhile, No-Face imitates the gold left behind by the river spirit and tempts
+					a worker with it, then swallowing him. No-Face demands food from the bathhouse and begins giving away extensive amounts of gold to its workers.
+					<br>
+					Sen sees paper Shikigami attacking a dragon and recognizes the dragon as Haku metamorphosed. When a grievously injured Haku crashes into Yubaba's penthouse, 
+					Sen follows him upstairs. A shikigami that stowed away on her back shapeshifts into Zeniba, Yubaba's twin sister. She turns Yubaba's son, Boh, into a mouse, 
+					and creates a false copy of him. Zeniba tells Sen that Haku has stolen a magic golden seal from her, and warns Sen that it carries a deadly curse. Haku strikes 
+					the shikigami, causing Zeniba to vanish. He falls into the boiler room with Sen, where she feeds him part of the emetic dumpling, causing him to vomit up the seal 
+					and a black slug, which Sen crushes with her foot. </p>
+					</div>
+					
+					<div class="story4">
+					<p>With Haku unconscious, Sen resolves to return the seal and apologize to Zeniba. Sen confronts an engorged No-Face, and feeds him the rest of the dumpling. 
+					No-Face follows Sen out of the bathhouse, steadily regurgitating everything that he has eaten. Sen, No-Face, and Boh travel to see Zeniba with train tickets 
+					given to her by Kamaji. Meanwhile, Yubaba orders that Sen's parents be slaughtered, but Haku reveals that Boh is missing and offers to retrieve him if Yubaba 
+					releases Sen and her parents. Yubaba agrees, but only if Sen can pass a final test.
+					<br>
+					Sen meets with Zeniba, who makes her a magic hairband and reveals that Yubaba used the black slug to take control over Haku. Haku appears at Zeniba's home in 
+					his dragon form and offers to fly them home. No-Face decides to stay behind with Zeniba and become her spinner, while Sen and Boh leave with Haku for the bathhouse. 
+					In mid-flight, Sen recalls falling years ago into the Kohaku River and being washed safely ashore, correctly guessing Haku's real identity as the spirit of the Kohaku 
+					River (ニギハヤミ コハクヌシ, Nigihayami Kohakunushi). When they arrive at the bathhouse, Yubaba forces Sen to identify her parents from among a group of pigs in order to 
+					leave. After she answers correctly that none of the pigs are her parents, her contract disappears and she is given back her real name. Haku takes her to the now-dry 
+					riverbed and vows to meet her again. Chihiro crosses the riverbed to her restored parents, who do not remember anything after eating at the restaurant stall. They walk 
+					back through the tunnel until they reach their car, now covered in dust and leaves. Before getting in, Chihiro looks back at the tunnel, her hair tie from Zeniba still intact. </p>
+					</div>
+					
+					<div class="story5">
+					<p>For more information about Spirited Away, visit the <a href="https://en.wikipedia.org/wiki/Spirited_Away">Wikipedia page.</a></p>
+					</div>
+					</font>
+                </div>
+                <div class="intro-right">
+                <img src="img/angeline.jpg" alt="Image" class="img-fluid intro-img-2">
+                </div>
+                <div class="circle intro-circle-1"></div>
+                <div class="circle intro-circle-2"></div>
+                <div class="circle intro-circle-3"></div>
+                <div class="circle intro-circle-4"></div>
+              </div>
+              <div class="text-center">
+              </div>            
+            </div>            
+          </li>
+        </ul>
+    </div>
+    <br>
+    
+    <div class="images">
+			<center><h2>Movie Scenes</h2>
+				<div class="scene">
+					<div class="carousel">
+					<img class="cell" id="1" src="img/sa1.png">
+					<img class="cell" id="2" src="img/sa2.png">
+					<img class="cell" id="3" src="img/sa3.png">
+					<img class="cell" id="4" src="img/sa4.png">
+					<img class="cell" id="5" src="img/sa5.png">
+					<img class="cell" id="6" src="img/sa6.png">
+					<img class="cell" id="7" src="img/sa7.png">
+					<img class="cell" id="8" src="img/sa8.png">
+					<img class="cell" id="9" src="img/sa9.png">
+					<img class="cell" id="10" src="img/sa10.png">
+					</div>
+				</div>
+				<p class="button">
+					<button class="prev">prev</button>
+					<button class="next">next</button>
+				</p>
+	</div>
+	
+	<script>
+ 		ScrollReveal({reset:true});
+	</script>
+
+	<script>
+		ScrollReveal().reveal('.story1', {delay: 100});
+ 		ScrollReveal().reveal('.story2', {delay: 200});
+ 		ScrollReveal().reveal('.story3', {delay: 300});
+ 		ScrollReveal().reveal('.story4', {delay: 400});
+ 		ScrollReveal().reveal('.story5', {delay: 500});
+		ScrollReveal().reveal('.images', {dealy: 600});
+	</script>
+
+				<script src="jsutil.js"></script>
+    <div class="container-fluid">
+      <footer class="row mx-auto tm-footer">
+        <div class="col-md-6 px-0">
+        <font size= 3>
+          Copyright &copy 2022 <a href="angeline1.html">Angeline</a> and <a href="yeji1.html">Yeji</a> and <a href="grace.html">Grace</a>. Design by <a href="https://technext.github.io/astro-motion/">Astro Motion Company.</a>
+        </font>
+        </div>
+        <div class="col-md-6 px-0 tm-footer-right">
+          Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank" class="tm-link-white">TemplateMo</a>
+        </div>
+      </footer>
+    </div>
+  </div>
+  <!-- Preloader, https://ihatetomatoes.net/create-custom-preloading-screen/ -->
+  <div id="loader-wrapper">            
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+  </div>  
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/slick.js"></script>
+  <script src="js/templatemo-script.js"></script>
+</body>
+</html>
