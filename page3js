@@ -1,0 +1,11 @@
+new TypeIt(".simpleUsage", {
+    strings: ["Yeji Kim"],
+    speed: 50,
+    waitUntilVisible: true,
+  })
+  	.break({ delay: 500 })
+    .break({ delay: 500 })
+    .type("My favorite film is My Neighbor Totoro! &hearts;")
+    .pause(300)
+    
+    .go();
