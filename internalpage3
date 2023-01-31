@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Ghibli - Grace</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css" type="text/css" /> 
+    <link rel="stylesheet" href="jsutil.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+	
+</head>
+<body>
+    <video autoplay muted loop id="bg-video">
+        <source src="video/background.mp4" type="video/mp4">
+    </video>
+    <div class="page-container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="cd-slider-nav">
+              <nav class="navbar navbar-expand-lg" id="tm-nav">
+                <a href="index.html">
+				<img src="img/logo.png" alt="studioghibli" width="200" height="">
+				</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-supported-content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbar-supported-content">
+                    <ul class="navbar-nav mb-2 mb-lg-0">
+                      <li class="nav-item">
+                        <a href="angeline1.html">
+						<img src="img/noface.gif" alt="spiritedaway" width="75" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="yeji1.html">
+						<img src="img/totoro.png" alt="totoro" width="60" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="grace.html">
+						<img src="img/ponyo.png" alt="ponyo" width="65" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="credit.html">
+						<img src="img/credit.png" alt="credit" width="70" height="">
+						</a></li>
+                      </li>
+                    </ul>
+                  </div>
+              </nav>
+            </div>
+          </div>          
+        </div>        
+      </div>      
+      <div class="container-fluid tm-content-container">
+        <ul class="cd-hero-slider mb-0 py-5">
+          <li class="px-3" data-page-no="1">
+            <div class="page-width-1 page-left">
+              <div class="d-flex position-relative tm-border-top tm-border-bottom intro-container">
+                <div class="intro-left tm-bg-dark">
+                  <font size= 3><p class="simpleUsage"></p></font>
+					<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+					<script src="gracetypeit.js"></script>
+					<hr>
+					<font size= 2>
+                	<h2>Bio</h2>
+					<p>Hello, my name is You Been (Grace) Hong. I'm originally 
+					from South Korea and Southern California. I am currently a Sophomore in <a id="link" href="https://www.bu.edu">Boston University</a> 
+					studying graphic design and minoring in computer science.s</p>
+
+					<p>While I love every Studio Ghibli film as I have watched and enjoyed them all multiple times, one of my favorites out of the films is Ponyo.</p>
+					<br>
+					<p>Ponyo is a film directed by Hayao Miyazaki and produced by Studio Ghibli released in 2008. The plot centers on a goldfish named 
+					Ponyo who desperately wants to be a human. In pursuing her goal, she befriends a five-year-old human boy, Sōsuke.</p>
+					
+					<div class="story1">
+					<h2>Ponyo</h2>
+					<h3>Plot</h3>
+					<p> The plot centers on a goldfish named Brunhilde and a boy named Sōsuke who renames her Ponyo. 
+					Fujimoto, a once-human wizard/scientist, lives underwater along with his daughter, Brunhilde, 
+					and her numerous smaller sisters. While she and her siblings are on an outing with their father 
+					in his four-flippered submarine, Brunhilde sneaks off and floats away on the back of a jellyfish. 
+					After an encounter with a fishing trawler, she drifts to the shore of a small fishing town in a glass 
+					jar where she is rescued by a five-year-old boy named Sōsuke. Shattering the jar open with a rock, 
+					Sōsuke cuts his finger in the process. Brunhilde licks his wound causing it to heal almost instantly. 
+					Meanwhile, Fujimoto is looking for her and his waves tell him, he believes she has been kidnapped.</p>
+					</div>
+					
+					<div class="story2">
+					<p>Ponyo and Fujimoto have an argument, during which Ponyo refuses to let her father call her by her 
+					birth name. She declares her desire to be known as 'Ponyo' and to become human. Even though her father 
+					warns her about the dark side of humans and he gave up his human life to serve the planet but 
+					she won't listen. Using her magic, she forces herself to grow leg- and arm-like appendages and start 
+					changing into a human, a power granted to her by the human blood she ingested when she licked Sōsuke's finger. 
+					Her alarmed father forces her to change back into her true form as being a human and having magic would be 
+					dangerous. Realizing that she can't stay much longer he leaves to summon Ponyo's mother, Granmamare for help.</p>
+					</div>
+					
+					<div class="story3">
+					<p>Sōsuke and Ponyo wake up to find that most of the land around the house has been covered by the ocean. 
+					Since it is impossible for Lisa to come home, the two children decide to find her. With the help of Ponyo's magic, 
+					they make Sōsuke's toy pop pop boat life-size and set out across the swollen ocean. Along they way they see many 
+					fish and a family who knows Sōsuke and his family. Ponyo gives some soup for the baby but since he can only drink 
+					milk at his age Ponyo let's the mother drink it. Soon enough the whole town comes on boats and tells everyone 
+					to come to a nearby hotel for safety. The two friends hurry on their way to find the seniors who might be at the park.</p>
+					</div>
+					
+					<div class="story4">
+					<p>Sōsuke is reunited with Lisa and meets Granmamare, with whom Lisa has just had a long private conversation. 
+					Granmamare asks Sōsuke if he can love Ponyo whether she is a fish or human. Sōsuke replies that he "loves all the Ponyos." 
+					Granmamare then tells her daughter that if she chooses to become human once and for all, she will have to give up her magical powers. 
+					Ponyo agrees to this, so Granmamare encases her in a bubble and gives her to Sōsuke. She tells him that kissing the bubble 
+					will complete Ponyo's transformation. The balance of nature is thus restored and the previously stranded ships head back to port. 
+					Fujimoto respects his daughter's choice to become a human, having decided he can trust Sōsuke with Ponyo's welfare. Lisa and 
+					Sōsuke go to meet Koichi whose ship has arrived. Ponyo then joyfully jumps high in the air and kisses Sōsuke, completing 
+					her transformation as a human.</p>
+					</div>
+					
+					<div class="story5">
+					<p>For more information about Ponyo, visit the <a href=”https://ghibli.fandom.com/wiki/Ponyo” >Ghibli Wiki for Ponyo</a>.</p>
+					</div>
+					</font>
+                </div>
+                <div class="intro-right">
+                <img src="img/grace.png" alt="Image" class="img-fluid intro-img-7">
+                </div>
+                <div class="circle intro-circle-1"></div>
+                <div class="circle intro-circle-2"></div>
+                <div class="circle intro-circle-3"></div>
+                <div class="circle intro-circle-4"></div>
+              </div>
+              <div class="text-center">
+              </div>            
+            </div>            
+          </li>
+        </ul>
+    </div>
+    <br>
+    		<div class="images">
+			<center><h2>Movie Scenes</h2>
+				<div class="scene">
+				<div class="carousel">
+					<img class="cell" id="1" src="img/ponyo1.png">
+					<img class="cell" id="2" src="img/ponyo2.png">
+					<img class="cell" id="3" src="img/ponyo3.png">
+					<img class="cell" id="4" src="img/ponyo4.png">
+					<img class="cell" id="5" src="img/ponyo5.png">
+					<img class="cell" id="6" src="img/ponyo6.png">
+					<img class="cell" id="7" src="img/ponyo7.png">
+					<img class="cell" id="8" src="img/ponyo8.png">
+					<img class="cell" id="9" src="img/ponyo9.png">
+					<img class="cell" id="10" src="img/ponyo10.png">
+				</div>
+				</div>
+				<p class="button">
+					<button class="prev">prev</button>
+					<button class="next">next</button>
+				</p>
+			</div>
+			
+			<script>
+				ScrollReveal({reset:true});
+			</script>
+
+			<script>
+			 	ScrollReveal().reveal('.story1', {delay: 100});
+ 				ScrollReveal().reveal('.story2', {delay: 200});
+ 				ScrollReveal().reveal('.story3', {delay: 300});
+ 				ScrollReveal().reveal('.story4', {delay: 400});
+ 				ScrollReveal().reveal('.story5', {delay: 500});
+ 				ScrollReveal().reveal('.images', {dealy: 600});
+			</script>
+
+				<script src="jsutil.js"></script>
+    <div class="container-fluid">
+      <footer class="row mx-auto tm-footer">
+        <div class="col-md-6 px-0">
+        <font size= 3>
+          Copyright &copy 2022 <a href="angeline1.html">Angeline</a> and <a href="yeji1.html">Yeji</a> and <a href="grace.html">Grace</a>. Design by <a href="https://technext.github.io/astro-motion/">Astro Motion Company.</a>
+		</font>       
+        </div>
+        <div class="col-md-6 px-0 tm-footer-right">
+          Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank" class="tm-link-white">TemplateMo</a>
+        </div>
+      </footer>
+    </div>
+  </div>
+  <!-- Preloader, https://ihatetomatoes.net/create-custom-preloading-screen/ -->
+  <div id="loader-wrapper">            
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+  </div>  
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/slick.js"></script>
+  <script src="js/templatemo-script.js"></script>
+</body>
+</html>
