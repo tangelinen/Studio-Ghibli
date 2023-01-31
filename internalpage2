@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Ghibli - Yeji</title>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css" type="text/css" /> 
+    <link rel="stylesheet" href="jsutil.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+</head>
+<body>
+    <video autoplay muted loop id="bg-video">
+        <source src="video/background.mp4" type="video/mp4">
+    </video>
+    <div class="page-container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="cd-slider-nav">
+              <nav class="navbar navbar-expand-lg" id="tm-nav">
+                <a href="index.html">
+				<img src="img/logo.png" alt="studioghibli" width="200" height="">
+				</a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-supported-content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbar-supported-content">
+                    <ul class="navbar-nav mb-2 mb-lg-0">
+                      <li class="nav-item">
+                        <a href="angeline1.html">
+						<img src="img/noface.gif" alt="spiritedaway" width="75" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="yeji1.html">
+						<img src="img/totoro.png" alt="totoro" width="60" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="grace.html">
+						<img src="img/ponyo.png" alt="ponyo" width="65" height="">
+						</a></li>
+                      </li>
+                      <li class="nav-item">
+                        <a href="credit.html">
+						<img src="img/credit.png" alt="credit" width="70" height="">
+						</a></li>
+                      </li>
+                    </ul>
+                  </div>
+              </nav>
+            </div>
+          </div>          
+        </div>        
+      </div>      
+      <div class="container-fluid tm-content-container">
+        <ul class="cd-hero-slider mb-0 py-5">
+          <li class="px-3" data-page-no="1">
+            <div class="page-width-1 page-left">
+              <div class="d-flex position-relative tm-border-top tm-border-bottom intro-container">
+                <div class="intro-left tm-bg-dark">
+                 <font size= 3><p class="simpleUsage"></p></font>
+					<script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
+					<script src="yejitypeit.js"></script>
+					<hr>
+					<font size= 2>
+                	<h2>Bio</h2>
+					<p>Hello, my name is Yeji Kim and I was born in South Korea, but lived most of my life in
+					New Jersey. I am currently a Sophomore at <a id="link" href="https://www.bu.edu">Boston University</a> 
+					studying graphic design and art education.</p>
+
+					<p>I love all Studio Ghibli films, but my favorite film amongst them all is My Neighbor Totoro
+					directed by Hayao Miyazaki. This film is my favorite film, because it successfully portrays 
+					children's innocence and imagination. This film is a very heart-warming and nostalgic film for me 
+					also because I grew up watching this film as a child. I also really love the style of drawing 
+					and the color scheme this film has. On top of the drawing style of this film, I really love the
+					soundtrack Studio Ghibli has.</p>
+					
+					<div class="story1">
+					<h2>My Neighbor Totoro</h2>
+					<h3>Plot</h3>
+					<p> In 1950s Japan, university professor Tatsuo Kusakabe and his two daughters, Satsuki 
+					and Mei (approximately ten and four years old, respectively), move into an old house 
+					closer to the hospital where the girls' mother, Yasuko, is recovering from a long-term 
+					illness. The house is inhabited by small, dark, dust-like house spirits called susuwatari, 
+					which can be seen when moving from bright to dark places.[note 1] When the girls become 
+					comfortable in their new house, the susuwatari leave to find another empty house. One day, 
+					Mei discovers two small spirits who lead her into the hollow of a large camphor tree. 
+					She befriends a larger spirit, which identifies itself by a series of roars that she 
+					interprets as "Totoro". Mei thinks Totoro is the Troll from her illustrated book Three 
+					Billy Goats Gruff, with her mispronouncing Troll. She falls asleep atop Totoro, but when 
+					Satsuki finds her, she is on the ground. Despite many attempts, Mei cannot show her family 
+					Totoro's tree. Tatsuo comforts her by telling her that Totoro will reveal himself when he 
+					wants to.</p>
+					</div>
+					
+					<div class="story2">
+					<p>One rainy night, the girls are waiting for Tatsuo's bus, which is late. Mei falls 
+					asleep on Satsuki's back, and Totoro appears beside them, allowing Satsuki to see him 
+					for the first time. Totoro has only a leaf on his head for protection against the rain, 
+					so Satsuki offers him the umbrella she had taken for her father. Delighted, he gives her 
+					a bundle of nuts and seeds in return. A giant, bus-shaped cat halts at the stop, and 
+					Totoro boards it and leaves. Shortly after, Tatsuo's bus arrives. A few days after 
+					planting the seeds, the girls awaken at midnight to find Totoro and his colleagues 
+					engaged in a ceremonial dance around the planted seeds and join in, causing the seeds 
+					to grow into an enormous tree. Totoro takes the girls for a ride on a magical flying top. 
+					In the morning, the tree is gone, but the seeds have sprouted.</p>
+					</div>
+					
+					<div class="story3">
+					<p>The girls discover that a planned visit by Yasuko has to be postponed because of a 
+					setback in her treatment. Mei does not take this well and argues with Satsuki, leaving 
+					for the hospital to bring fresh corn to Yasuko. Her disappearance prompts Satsuki and 
+					the neighbors to search for her. In desperation, Satsuki returns to the camphor tree 
+					and pleads for Totoro's help. He delightfully summons the Catbus, which carries her to 
+					where the lost Mei sits, and the sisters emotionally reunite. The bus then takes them 
+					to the hospital. The girls overhear a conversation between their parents and learn that 
+					she has been kept in hospital by a minor cold but is otherwise doing well. They secretly 
+					leave the ear of corn on the windowsill, where their parents discover it, and return home. 
+					Eventually, Yasuko returns home, and the sisters play with other children while Totoro and 
+					his friends watch them from afar.</p>
+					</div>
+					
+					<div class="story4">
+					<h3>Themes</h3>
+					<p>Animism is a large theme in this film according to Eriko Ogihara-Schuck. Totoro has 
+					animistic traits and has kami status due to the fact that he lives in a camphor tree in a 
+					Shinto shrine surrounded by a Shinto rope and was referred to as "mori no nushi," or 
+					"master of the forest". Moreover, Ogihara-Schuck writes that when Mei returns from her 
+					encounter with Totoro her father takes Mei and her sister to the shrine to greet and thank 
+					Totoro. This is a common practice in the Shinto tradition following an encounter with a 
+					kami. The themes of the film was additionally noted for Phillip E. Wegner, who believed 
+					the film as being an example of alternative history citing the utopian-like setting of the 
+					anime.</p>
+					</div>
+					
+					<div class="story5">
+					<p>To learn more about My Neighbor Totoro, please visit the <a id="link2" href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro">Wiki for 
+					My Neighbor Totoro.</a></p>
+					</div>
+					</font>
+                </div>
+                <div class="intro-right">
+                <img src="img/yeji.png" alt="Image" class="img-fluid intro-img-5">
+                </div>
+                <div class="circle intro-circle-1"></div>
+                <div class="circle intro-circle-2"></div>
+                <div class="circle intro-circle-3"></div>
+                <div class="circle intro-circle-4"></div>
+              </div>
+              <div class="text-center">
+              </div>            
+            </div>            
+          </li>
+        </ul>
+    </div>
+    <br>
+    		<div class="images">
+			<center><h2>Movie Scenes</h2>
+
+			<div class="scene">
+			<div class="carousel">
+				<img class="cell" id="1" src="img/totoro1.png">
+				<img class="cell" id="2" src="img/totoro2.png">
+				<img class="cell" id="3" src="img/totoro3.png">
+				<img class="cell" id="4" src="img/totoro4.png">
+				<img class="cell" id="5" src="img/totoro5.png">
+				<img class="cell" id="6" src="img/totoro6.png">
+				<img class="cell" id="7" src="img/totoro7.png">
+				<img class="cell" id="8" src="img/totoro8.png">
+				<img class="cell" id="9" src="img/totoro9.png">
+				<img class="cell" id="10" src="img/totoro10.png">
+			</div>
+			</div>
+			<p class="button">
+				<button class="prev">prev</button>
+				<button class="next">next</button>
+			</p>
+			</div>
+				<script>
+ 					ScrollReveal({reset:true});
+				</script>
+
+				<script>
+					ScrollReveal().reveal('.story1', {delay: 100});
+ 					ScrollReveal().reveal('.story2', {delay: 200});
+ 					ScrollReveal().reveal('.story3', {delay: 300});
+ 					ScrollReveal().reveal('.story4', {delay: 400});
+ 					ScrollReveal().reveal('.story5', {delay: 500});
+					ScrollReveal().reveal('.images', {dealy: 600});
+				</script>
+
+				<script src="jsutil.js"></script>
+    <div class="container-fluid">
+      <footer class="row mx-auto tm-footer">
+        <div class="col-md-6 px-0">
+        <font size= 3>
+          Copyright &copy 2022 <a href="angeline1.html">Angeline</a> and <a href="yeji1.html">Yeji</a> and <a href="grace.html">Grace</a>. Design by <a href="https://technext.github.io/astro-motion/">Astro Motion Company.</a>
+        </font>
+        </div>
+        <div class="col-md-6 px-0 tm-footer-right">
+          Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank" class="tm-link-white">TemplateMo</a>
+        </div>
+      </footer>
+    </div>
+  </div>
+  <!-- Preloader, https://ihatetomatoes.net/create-custom-preloading-screen/ -->
+  <div id="loader-wrapper">            
+    <div id="loader"></div>
+    <div class="loader-section section-left"></div>
+    <div class="loader-section section-right"></div>
+  </div>  
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/slick.js"></script>
+  <script src="js/templatemo-script.js"></script>
+</body>
+</html>
